@@ -1,4 +1,7 @@
 # HandGestureControlledPresentation-OpenCV
+
+Contributors - Swetha S, Sruthi S
+
 Hand Gesture Controlled Presentation using OpenCV (Machine Learning)
 
 
